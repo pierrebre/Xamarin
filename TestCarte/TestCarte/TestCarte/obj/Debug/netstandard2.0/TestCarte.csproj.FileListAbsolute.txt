@@ -1,0 +1,14 @@
+C:\Users\pierr\source\repos\TestCarte\TestCarte\TestCarte\bin\Debug\netstandard2.0\TestCarte.deps.json
+C:\Users\pierr\source\repos\TestCarte\TestCarte\TestCarte\bin\Debug\netstandard2.0\TestCarte.dll
+C:\Users\pierr\source\repos\TestCarte\TestCarte\TestCarte\bin\Debug\netstandard2.0\ref\TestCarte.dll
+C:\Users\pierr\source\repos\TestCarte\TestCarte\TestCarte\bin\Debug\netstandard2.0\TestCarte.pdb
+C:\Users\pierr\source\repos\TestCarte\TestCarte\TestCarte\obj\Debug\netstandard2.0\TestCarte.csprojAssemblyReference.cache
+C:\Users\pierr\source\repos\TestCarte\TestCarte\TestCarte\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\pierr\source\repos\TestCarte\TestCarte\TestCarte\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\pierr\source\repos\TestCarte\TestCarte\TestCarte\obj\Debug\netstandard2.0\Vues\AjoutCarteVue.xaml.g.cs
+C:\Users\pierr\source\repos\TestCarte\TestCarte\TestCarte\obj\Debug\netstandard2.0\TestCarte.AssemblyInfoInputs.cache
+C:\Users\pierr\source\repos\TestCarte\TestCarte\TestCarte\obj\Debug\netstandard2.0\TestCarte.AssemblyInfo.cs
+C:\Users\pierr\source\repos\TestCarte\TestCarte\TestCarte\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\pierr\source\repos\TestCarte\TestCarte\TestCarte\obj\Debug\netstandard2.0\TestCarte.dll
+C:\Users\pierr\source\repos\TestCarte\TestCarte\TestCarte\obj\Debug\netstandard2.0\ref\TestCarte.dll
+C:\Users\pierr\source\repos\TestCarte\TestCarte\TestCarte\obj\Debug\netstandard2.0\TestCarte.pdb

@@ -1,0 +1,13 @@
+C:\Users\pierr\source\repos\qsdfghjkjhgfd\qsdfghjkjhgfd\qsdfghjkjhgfd\bin\Debug\netstandard2.0\qsdfghjkjhgfd.deps.json
+C:\Users\pierr\source\repos\qsdfghjkjhgfd\qsdfghjkjhgfd\qsdfghjkjhgfd\bin\Debug\netstandard2.0\qsdfghjkjhgfd.dll
+C:\Users\pierr\source\repos\qsdfghjkjhgfd\qsdfghjkjhgfd\qsdfghjkjhgfd\obj\Debug\netstandard2.0\qsdfghjkjhgfd.csprojAssemblyReference.cache
+C:\Users\pierr\source\repos\qsdfghjkjhgfd\qsdfghjkjhgfd\qsdfghjkjhgfd\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\pierr\source\repos\qsdfghjkjhgfd\qsdfghjkjhgfd\qsdfghjkjhgfd\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\pierr\source\repos\qsdfghjkjhgfd\qsdfghjkjhgfd\qsdfghjkjhgfd\obj\Debug\netstandard2.0\qsdfghjkjhgfd.AssemblyInfoInputs.cache
+C:\Users\pierr\source\repos\qsdfghjkjhgfd\qsdfghjkjhgfd\qsdfghjkjhgfd\obj\Debug\netstandard2.0\qsdfghjkjhgfd.AssemblyInfo.cs
+C:\Users\pierr\source\repos\qsdfghjkjhgfd\qsdfghjkjhgfd\qsdfghjkjhgfd\bin\Debug\netstandard2.0\ref\qsdfghjkjhgfd.dll
+C:\Users\pierr\source\repos\qsdfghjkjhgfd\qsdfghjkjhgfd\qsdfghjkjhgfd\bin\Debug\netstandard2.0\qsdfghjkjhgfd.pdb
+C:\Users\pierr\source\repos\qsdfghjkjhgfd\qsdfghjkjhgfd\qsdfghjkjhgfd\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\pierr\source\repos\qsdfghjkjhgfd\qsdfghjkjhgfd\qsdfghjkjhgfd\obj\Debug\netstandard2.0\qsdfghjkjhgfd.dll
+C:\Users\pierr\source\repos\qsdfghjkjhgfd\qsdfghjkjhgfd\qsdfghjkjhgfd\obj\Debug\netstandard2.0\ref\qsdfghjkjhgfd.dll
+C:\Users\pierr\source\repos\qsdfghjkjhgfd\qsdfghjkjhgfd\qsdfghjkjhgfd\obj\Debug\netstandard2.0\qsdfghjkjhgfd.pdb

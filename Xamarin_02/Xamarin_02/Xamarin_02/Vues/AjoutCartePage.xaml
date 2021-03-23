@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="Xamarin_02.Vues.AjoutCartePage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Numéro de votre carte" />
+            <Entry Placeholder="Numéro Carte." Text="{Binding NumeroCarte}"/>
+
+            <Label Text="Prenom" />
+            <Entry Placeholder="Prenom" Text="{Binding NomCarte}"/>
+            
+            <Label Text="Nom" />
+            <Entry Placeholder="Nom" Text="{Binding PrenomCarte}"/>
+
+            <Button Text="Ajouter" Command="{Binding BtnAjout}" ></Button>
+
+            <ListView ItemsSource="{Binding ListViewCarte,Mode=TwoWay}"
+          CachingStrategy="RecycleElement"
+          RowHeight="60">
+
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout Margin="8">
+                                <Label Text="{Binding Test}"></Label>
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+
+            </ListView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

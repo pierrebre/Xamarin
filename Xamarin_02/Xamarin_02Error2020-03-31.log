@@ -1,0 +1,194 @@
+
+
+Date:2020-03-31 14:34:26,914
+Thread:[1]
+Level:ERROR
+Logger:Syncfusion.Xamarin.UI.WizardImplementation                         [(null)]
+Message:System.ArgumentException: L'argument ne peut pas être null ou vide
+Nom du paramètre : fullName
+   à NuGet.VisualStudio.ProjectNames..ctor(String fullName, String uniqueName, String shortName, String customUniqueName)
+   à NuGet.VisualStudio.ProjectNames.<FromDTEProjectAsync>d__17.MoveNext()
+--- Fin de la trace de la pile à partir de l'emplacement précédent au niveau duquel l'exception a été levée ---
+   à System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   à System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   à NuGet.PackageManagement.VisualStudio.VsProjectAdapterProvider.<CreateAdapterForFullyLoadedProjectAsync>d__6.MoveNext()
+--- Fin de la trace de la pile à partir de l'emplacement précédent au niveau duquel l'exception a été levée ---
+   à System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   à System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   à NuGet.PackageManagement.VisualStudio.VSSolutionManager.<GetOrCreateProjectAsync>d__107.MoveNext()
+--- Fin de la trace de la pile à partir de l'emplacement précédent au niveau duquel l'exception a été levée ---
+   à System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   à System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   à NuGet.VisualStudio.VsPackageInstallerServices.<GetInstalledPackageReferencesAsync>d__9.MoveNext()
+--- Fin de la trace de la pile à partir de l'emplacement précédent au niveau duquel l'exception a été levée ---
+   à System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   à System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   à NuGet.VisualStudio.VsPackageInstallerServices.<>c__DisplayClass15_0.<<IsPackageInstalled>b__0>d.MoveNext()
+--- Fin de la trace de la pile à partir de l'emplacement précédent au niveau duquel l'exception a été levée ---
+   à System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   à System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   à Microsoft.VisualStudio.Threading.JoinableTask.CompleteOnCurrentThread()
+   à Microsoft.VisualStudio.Threading.JoinableTask`1.CompleteOnCurrentThread()
+   à Microsoft.VisualStudio.Threading.JoinableTaskFactory.Run[T](Func`1 asyncMethod, JoinableTaskCreationOptions creationOptions)
+   à NuGet.VisualStudio.VsPackageInstallerServices.IsPackageInstalled(Project project, String packageId, NuGetVersion nugetVersion)
+   à NuGet.VisualStudio.VsPackageInstallerServices.IsPackageInstalled(Project project, String packageId)
+   à Syncfusion.Xamarin.UI.WizardImplementation.NugetPackageInstallation(Project project, String package, String version)
+
+
+Date:2020-03-31 14:34:26,963
+Thread:[1]
+Level:ERROR
+Logger:Syncfusion.Xamarin.UI.WizardImplementation                         [(null)]
+Message:System.ArgumentException: L'argument ne peut pas être null ou vide
+Nom du paramètre : fullName
+   à NuGet.VisualStudio.ProjectNames..ctor(String fullName, String uniqueName, String shortName, String customUniqueName)
+   à NuGet.VisualStudio.ProjectNames.<FromDTEProjectAsync>d__17.MoveNext()
+--- Fin de la trace de la pile à partir de l'emplacement précédent au niveau duquel l'exception a été levée ---
+   à System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   à System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   à NuGet.PackageManagement.VisualStudio.VsProjectAdapterProvider.<CreateAdapterForFullyLoadedProjectAsync>d__6.MoveNext()
+--- Fin de la trace de la pile à partir de l'emplacement précédent au niveau duquel l'exception a été levée ---
+   à System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   à System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   à NuGet.PackageManagement.VisualStudio.VSSolutionManager.<GetOrCreateProjectAsync>d__107.MoveNext()
+--- Fin de la trace de la pile à partir de l'emplacement précédent au niveau duquel l'exception a été levée ---
+   à System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   à System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   à NuGet.VisualStudio.VsPackageInstallerServices.<GetInstalledPackageReferencesAsync>d__9.MoveNext()
+--- Fin de la trace de la pile à partir de l'emplacement précédent au niveau duquel l'exception a été levée ---
+   à System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   à System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   à NuGet.VisualStudio.VsPackageInstallerServices.<>c__DisplayClass15_0.<<IsPackageInstalled>b__0>d.MoveNext()
+--- Fin de la trace de la pile à partir de l'emplacement précédent au niveau duquel l'exception a été levée ---
+   à System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   à System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   à Microsoft.VisualStudio.Threading.JoinableTask.CompleteOnCurrentThread()
+   à Microsoft.VisualStudio.Threading.JoinableTask`1.CompleteOnCurrentThread()
+   à Microsoft.VisualStudio.Threading.JoinableTaskFactory.Run[T](Func`1 asyncMethod, JoinableTaskCreationOptions creationOptions)
+   à NuGet.VisualStudio.VsPackageInstallerServices.IsPackageInstalled(Project project, String packageId, NuGetVersion nugetVersion)
+   à NuGet.VisualStudio.VsPackageInstallerServices.IsPackageInstalled(Project project, String packageId)
+   à Syncfusion.Xamarin.UI.WizardImplementation.NugetPackageInstallation(Project project, String package, String version)
+
+
+Date:2020-03-31 14:34:26,975
+Thread:[1]
+Level:ERROR
+Logger:Syncfusion.Xamarin.UI.WizardImplementation                         [(null)]
+Message:System.ArgumentException: L'argument ne peut pas être null ou vide
+Nom du paramètre : fullName
+   à NuGet.VisualStudio.ProjectNames..ctor(String fullName, String uniqueName, String shortName, String customUniqueName)
+   à NuGet.VisualStudio.ProjectNames.<FromDTEProjectAsync>d__17.MoveNext()
+--- Fin de la trace de la pile à partir de l'emplacement précédent au niveau duquel l'exception a été levée ---
+   à System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   à System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   à NuGet.PackageManagement.VisualStudio.VsProjectAdapterProvider.<CreateAdapterForFullyLoadedProjectAsync>d__6.MoveNext()
+--- Fin de la trace de la pile à partir de l'emplacement précédent au niveau duquel l'exception a été levée ---
+   à System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   à System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   à NuGet.PackageManagement.VisualStudio.VSSolutionManager.<GetOrCreateProjectAsync>d__107.MoveNext()
+--- Fin de la trace de la pile à partir de l'emplacement précédent au niveau duquel l'exception a été levée ---
+   à System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   à System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   à NuGet.VisualStudio.VsPackageInstallerServices.<GetInstalledPackageReferencesAsync>d__9.MoveNext()
+--- Fin de la trace de la pile à partir de l'emplacement précédent au niveau duquel l'exception a été levée ---
+   à System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   à System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   à NuGet.VisualStudio.VsPackageInstallerServices.<>c__DisplayClass15_0.<<IsPackageInstalled>b__0>d.MoveNext()
+--- Fin de la trace de la pile à partir de l'emplacement précédent au niveau duquel l'exception a été levée ---
+   à System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   à System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   à Microsoft.VisualStudio.Threading.JoinableTask.CompleteOnCurrentThread()
+   à Microsoft.VisualStudio.Threading.JoinableTask`1.CompleteOnCurrentThread()
+   à Microsoft.VisualStudio.Threading.JoinableTaskFactory.Run[T](Func`1 asyncMethod, JoinableTaskCreationOptions creationOptions)
+   à NuGet.VisualStudio.VsPackageInstallerServices.IsPackageInstalled(Project project, String packageId, NuGetVersion nugetVersion)
+   à NuGet.VisualStudio.VsPackageInstallerServices.IsPackageInstalled(Project project, String packageId)
+   à Syncfusion.Xamarin.UI.WizardImplementation.NugetPackageInstallation(Project project, String package, String version)
+
+
+Date:2020-03-31 14:34:26,984
+Thread:[1]
+Level:ERROR
+Logger:Syncfusion.Xamarin.UI.WizardImplementation                         [(null)]
+Message:System.ArgumentException: L'argument ne peut pas être null ou vide
+Nom du paramètre : fullName
+   à NuGet.VisualStudio.ProjectNames..ctor(String fullName, String uniqueName, String shortName, String customUniqueName)
+   à NuGet.VisualStudio.ProjectNames.<FromDTEProjectAsync>d__17.MoveNext()
+--- Fin de la trace de la pile à partir de l'emplacement précédent au niveau duquel l'exception a été levée ---
+   à System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   à System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   à NuGet.PackageManagement.VisualStudio.VsProjectAdapterProvider.<CreateAdapterForFullyLoadedProjectAsync>d__6.MoveNext()
+--- Fin de la trace de la pile à partir de l'emplacement précédent au niveau duquel l'exception a été levée ---
+   à System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   à System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   à NuGet.PackageManagement.VisualStudio.VSSolutionManager.<GetOrCreateProjectAsync>d__107.MoveNext()
+--- Fin de la trace de la pile à partir de l'emplacement précédent au niveau duquel l'exception a été levée ---
+   à System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   à System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   à NuGet.VisualStudio.VsPackageInstallerServices.<GetInstalledPackageReferencesAsync>d__9.MoveNext()
+--- Fin de la trace de la pile à partir de l'emplacement précédent au niveau duquel l'exception a été levée ---
+   à System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   à System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   à NuGet.VisualStudio.VsPackageInstallerServices.<>c__DisplayClass15_0.<<IsPackageInstalled>b__0>d.MoveNext()
+--- Fin de la trace de la pile à partir de l'emplacement précédent au niveau duquel l'exception a été levée ---
+   à System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   à System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   à Microsoft.VisualStudio.Threading.JoinableTask.CompleteOnCurrentThread()
+   à Microsoft.VisualStudio.Threading.JoinableTask`1.CompleteOnCurrentThread()
+   à Microsoft.VisualStudio.Threading.JoinableTaskFactory.Run[T](Func`1 asyncMethod, JoinableTaskCreationOptions creationOptions)
+   à NuGet.VisualStudio.VsPackageInstallerServices.IsPackageInstalled(Project project, String packageId, NuGetVersion nugetVersion)
+   à NuGet.VisualStudio.VsPackageInstallerServices.IsPackageInstalled(Project project, String packageId)
+   à Syncfusion.Xamarin.UI.WizardImplementation.NugetPackageInstallation(Project project, String package, String version)
+
+
+Date:2020-03-31 14:34:27,002
+Thread:[1]
+Level:ERROR
+Logger:Syncfusion.Xamarin.UI.WizardImplementation                         [(null)]
+Message:System.ArgumentException: Un nom de chemin d'accès vide n'est pas légal.
+   à System.IO.File.ReadAllText(String path)
+   à Syncfusion.Xamarin.UI.WizardImplementation.AddControlRendererLine(List`1 templateList, List`1 resourceList)
+
+
+Date:2020-03-31 14:34:38,285
+Thread:[1]
+Level:ERROR
+Logger:Syncfusion.Xamarin.UI.WizardImplementation                         [(null)]
+Message:System.ArgumentException: Un nom de chemin d'accès vide n'est pas légal.
+   à System.IO.File.ReadAllText(String path)
+   à Syncfusion.Xamarin.UI.WizardImplementation.AddFlies(String[] fileName, String projectType)
+
+
+Date:2020-03-31 14:34:38,295
+Thread:[1]
+Level:ERROR
+Logger:Syncfusion.Xamarin.UI.WizardImplementation                         [(null)]
+Message:System.ArgumentException: Un nom de chemin d'accès vide n'est pas légal.
+   à System.IO.File.ReadAllText(String path)
+   à Syncfusion.Xamarin.UI.WizardImplementation.AddProjectItemsForIOS(String ProjectFile, String[] fileName)
+
+
+Date:2020-03-31 14:34:38,303
+Thread:[1]
+Level:ERROR
+Logger:Syncfusion.Xamarin.UI.WizardImplementation                         [(null)]
+Message:System.ArgumentException: Un nom de chemin d'accès vide n'est pas légal.
+   à System.IO.File.ReadAllText(String path)
+   à Syncfusion.Xamarin.UI.WizardImplementation.AddFlies(String[] fileName, String projectType)
+
+
+Date:2020-03-31 14:34:38,317
+Thread:[1]
+Level:ERROR
+Logger:Syncfusion.Xamarin.UI.WizardImplementation                         [(null)]
+Message:System.ArgumentException: Un nom de chemin d'accès vide n'est pas légal.
+   à System.IO.File.ReadAllText(String path)
+   à Syncfusion.Xamarin.UI.WizardImplementation.AddProjectItemsForUWP(String ProjectFile, String[] fileName)
+
+
+Date:2020-03-31 14:34:38,324
+Thread:[1]
+Level:ERROR
+Logger:Syncfusion.Xamarin.UI.WizardImplementation                         [(null)]
+Message:System.ArgumentException: Un nom de chemin d'accès vide n'est pas légal.
+   à System.IO.File.ReadAllText(String path)
+   à Syncfusion.Xamarin.UI.WizardImplementation.AddFlies(String[] fileName, String projectType)

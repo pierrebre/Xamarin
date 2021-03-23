@@ -1,0 +1,104 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\pierr\\source\\repos\\PierrePPE\\PierrePPE\\PierrePPE\\PierrePPE.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\pierr\\source\\repos\\PierrePPE\\PierrePPE\\PierrePPE\\PierrePPE.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\pierr\\source\\repos\\PierrePPE\\PierrePPE\\PierrePPE\\PierrePPE.csproj",
+        "projectName": "PierrePPE",
+        "projectPath": "C:\\Users\\pierr\\source\\repos\\PierrePPE\\PierrePPE\\PierrePPE\\PierrePPE.csproj",
+        "packagesPath": "C:\\Users\\pierr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pierr\\source\\repos\\PierrePPE\\PierrePPE\\PierrePPE\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\pierr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "FluentNHibernate": {
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "Microsoft.TestPlatform.TranslationLayer": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "OsmSharp": {
+              "target": "Package",
+              "version": "[6.2.0, )"
+            },
+            "Plugin.Google": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "Syncfusion.Xamarin.SfMaps": {
+              "target": "Package",
+              "version": "[17.4.0.53, )"
+            },
+            "System.Net.Requests": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "UXDivers.GorillaPlayer.SDK": {
+              "target": "Package",
+              "version": "[1.5.5, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.5.1, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[4.5.0.356, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

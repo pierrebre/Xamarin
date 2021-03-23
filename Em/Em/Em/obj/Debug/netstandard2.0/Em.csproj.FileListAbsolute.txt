@@ -1,0 +1,15 @@
+C:\Users\pierr\source\repos\Em\Em\Em\bin\Debug\netstandard2.0\Em.deps.json
+C:\Users\pierr\source\repos\Em\Em\Em\bin\Debug\netstandard2.0\Em.dll
+C:\Users\pierr\source\repos\Em\Em\Em\bin\Debug\netstandard2.0\ref\Em.dll
+C:\Users\pierr\source\repos\Em\Em\Em\bin\Debug\netstandard2.0\Em.pdb
+C:\Users\pierr\source\repos\Em\Em\Em\obj\Debug\netstandard2.0\Em.csprojAssemblyReference.cache
+C:\Users\pierr\source\repos\Em\Em\Em\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\pierr\source\repos\Em\Em\Em\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\pierr\source\repos\Em\Em\Em\obj\Debug\netstandard2.0\Vues\PageAccueil.xaml.g.cs
+C:\Users\pierr\source\repos\Em\Em\Em\obj\Debug\netstandard2.0\Vues\PageConnection.xaml.g.cs
+C:\Users\pierr\source\repos\Em\Em\Em\obj\Debug\netstandard2.0\Em.AssemblyInfoInputs.cache
+C:\Users\pierr\source\repos\Em\Em\Em\obj\Debug\netstandard2.0\Em.AssemblyInfo.cs
+C:\Users\pierr\source\repos\Em\Em\Em\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\pierr\source\repos\Em\Em\Em\obj\Debug\netstandard2.0\Em.dll
+C:\Users\pierr\source\repos\Em\Em\Em\obj\Debug\netstandard2.0\ref\Em.dll
+C:\Users\pierr\source\repos\Em\Em\Em\obj\Debug\netstandard2.0\Em.pdb

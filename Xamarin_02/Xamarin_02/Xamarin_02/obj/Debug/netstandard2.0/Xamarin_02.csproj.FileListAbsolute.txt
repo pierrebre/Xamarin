@@ -1,0 +1,17 @@
+C:\Users\pierr\source\repos\Xamarin_02\Xamarin_02\Xamarin_02\bin\Debug\netstandard2.0\Xamarin_02.deps.json
+C:\Users\pierr\source\repos\Xamarin_02\Xamarin_02\Xamarin_02\bin\Debug\netstandard2.0\Xamarin_02.dll
+C:\Users\pierr\source\repos\Xamarin_02\Xamarin_02\Xamarin_02\bin\Debug\netstandard2.0\ref\Xamarin_02.dll
+C:\Users\pierr\source\repos\Xamarin_02\Xamarin_02\Xamarin_02\bin\Debug\netstandard2.0\Xamarin_02.pdb
+C:\Users\pierr\source\repos\Xamarin_02\Xamarin_02\Xamarin_02\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\pierr\source\repos\Xamarin_02\Xamarin_02\Xamarin_02\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\pierr\source\repos\Xamarin_02\Xamarin_02\Xamarin_02\obj\Debug\netstandard2.0\Vues\AjoutCartePage.xaml.g.cs
+C:\Users\pierr\source\repos\Xamarin_02\Xamarin_02\Xamarin_02\obj\Debug\netstandard2.0\Vues\CartePage.xaml.g.cs
+C:\Users\pierr\source\repos\Xamarin_02\Xamarin_02\Xamarin_02\obj\Debug\netstandard2.0\Xamarin_02.AssemblyInfoInputs.cache
+C:\Users\pierr\source\repos\Xamarin_02\Xamarin_02\Xamarin_02\obj\Debug\netstandard2.0\Xamarin_02.AssemblyInfo.cs
+C:\Users\pierr\source\repos\Xamarin_02\Xamarin_02\Xamarin_02\obj\Debug\netstandard2.0\Xamarin_02.dll
+C:\Users\pierr\source\repos\Xamarin_02\Xamarin_02\Xamarin_02\obj\Debug\netstandard2.0\ref\Xamarin_02.dll
+C:\Users\pierr\source\repos\Xamarin_02\Xamarin_02\Xamarin_02\obj\Debug\netstandard2.0\Xamarin_02.pdb
+C:\Users\pierr\source\repos\Xamarin_02\Xamarin_02\Xamarin_02\obj\Debug\netstandard2.0\Xamarin_02.csprojAssemblyReference.cache
+C:\Users\pierr\source\repos\Xamarin_02\Xamarin_02\Xamarin_02\obj\Debug\netstandard2.0\Themes\LightTheme.xaml.g.cs
+C:\Users\pierr\source\repos\Xamarin_02\Xamarin_02\Xamarin_02\obj\Debug\netstandard2.0\Views\Forms\AddCardPage.xaml.g.cs
+C:\Users\pierr\source\repos\Xamarin_02\Xamarin_02\Xamarin_02\obj\Debug\netstandard2.0\Views\Forms\Styles.xaml.g.cs

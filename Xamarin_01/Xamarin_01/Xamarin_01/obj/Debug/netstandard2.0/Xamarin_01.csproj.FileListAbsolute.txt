@@ -1,0 +1,17 @@
+C:\Users\pierr\source\repos\Xamarin_01\Xamarin_01\Xamarin_01\bin\Debug\netstandard2.0\Xamarin_01.deps.json
+C:\Users\pierr\source\repos\Xamarin_01\Xamarin_01\Xamarin_01\bin\Debug\netstandard2.0\Xamarin_01.dll
+C:\Users\pierr\source\repos\Xamarin_01\Xamarin_01\Xamarin_01\obj\Debug\netstandard2.0\Xamarin_01.csprojAssemblyReference.cache
+C:\Users\pierr\source\repos\Xamarin_01\Xamarin_01\Xamarin_01\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\pierr\source\repos\Xamarin_01\Xamarin_01\Xamarin_01\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\pierr\source\repos\Xamarin_01\Xamarin_01\Xamarin_01\obj\Debug\netstandard2.0\Themes\LightTheme.xaml.g.cs
+C:\Users\pierr\source\repos\Xamarin_01\Xamarin_01\Xamarin_01\obj\Debug\netstandard2.0\Views\Forms\SimpleEmailEntry.xaml.g.cs
+C:\Users\pierr\source\repos\Xamarin_01\Xamarin_01\Xamarin_01\obj\Debug\netstandard2.0\Views\Forms\SimpleLoginPage.xaml.g.cs
+C:\Users\pierr\source\repos\Xamarin_01\Xamarin_01\Xamarin_01\obj\Debug\netstandard2.0\Views\Forms\Styles.xaml.g.cs
+C:\Users\pierr\source\repos\Xamarin_01\Xamarin_01\Xamarin_01\obj\Debug\netstandard2.0\Xamarin_01.AssemblyInfoInputs.cache
+C:\Users\pierr\source\repos\Xamarin_01\Xamarin_01\Xamarin_01\obj\Debug\netstandard2.0\Xamarin_01.AssemblyInfo.cs
+C:\Users\pierr\source\repos\Xamarin_01\Xamarin_01\Xamarin_01\bin\Debug\netstandard2.0\ref\Xamarin_01.dll
+C:\Users\pierr\source\repos\Xamarin_01\Xamarin_01\Xamarin_01\bin\Debug\netstandard2.0\Xamarin_01.pdb
+C:\Users\pierr\source\repos\Xamarin_01\Xamarin_01\Xamarin_01\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\pierr\source\repos\Xamarin_01\Xamarin_01\Xamarin_01\obj\Debug\netstandard2.0\Xamarin_01.dll
+C:\Users\pierr\source\repos\Xamarin_01\Xamarin_01\Xamarin_01\obj\Debug\netstandard2.0\ref\Xamarin_01.dll
+C:\Users\pierr\source\repos\Xamarin_01\Xamarin_01\Xamarin_01\obj\Debug\netstandard2.0\Xamarin_01.pdb
